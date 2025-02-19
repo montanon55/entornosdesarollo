@@ -6,7 +6,7 @@ public class holamundo {
 		
 		System.out.println("Hola mundo");
 		System.out.println("Cowboy del infierno");
-		//comentario//
+		//comentariohjhj//
 	}
 
 }
